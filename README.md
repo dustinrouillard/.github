@@ -10,9 +10,7 @@ If you look below at my pinned repositories you can see a table which automatica
 Once I get around to it I will be moving that table up to here and adding more and more data. :)
 
 ```
-――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
-Hours writing code                                                                                READ BELOW
-Terminal Commands                                                                                 READ BELOW
-Docker Builds                                                                                     READ BELOW
-――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
+Hours writing code   -   READ BELOW
+Terminal Commands    -   READ BELOW
+Docker Builds        -   READ BELOW
 ```
