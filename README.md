@@ -1,6 +1,6 @@
 ![Header Image](https://gcs.dustin.sh/u/898e24566451c36d.png)
 
-#### Hi there, welcome to my GitHub profile 👋 
+#### Hi there, welcome to my GitHub profile 👋
 
 The name's Dustin, I'm 20 years old, currently living in Vancouver, Canada, and I'm the CTO & Co-Founder of [Notify Technology, Inc.](https://notify.me) 
 
@@ -21,13 +21,13 @@ I'm the Full-Time CTO and Systems Administrator at [Notify](https://notify.me), 
 You should follow me on Twitter as I'm most active there \
 [**@dustinrouillard**](https://dustin.link/twitter)
 
-I also have a Discord if you fancy hanging out there \
-[**dustin.link/discord**](https://dustin.link/discord)
-
 If you happen to be in the Hiven beta I also have a house there \
 :house: [**hiven.house/dustin**](https://hiven.house/dustin)
 
+Discord : [**dustin.vc**](https://dustin.vc) \
+:email: : contact@dustin.sh \
 See more of my stuff at my website [**dustin.sh**](https://dustin.sh) \
-I also have a lot of domains btw, lol [**dustin.domains/all**](https://dustin.domains/all)
+I also have a lot of domains btw, lol [**dustin.domains/all**](https://dustin.domains/all) \
+Interested in the dotfiles that power my daily workflow? [**dustin.link/dotfiles**](https://dustin.link/dotfiles)
 
 ###### This is a very neat way to tell people more about yourself and what you do :)
