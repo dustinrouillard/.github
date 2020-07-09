@@ -16,7 +16,7 @@ I'm the Full-Time CTO and Systems Administrator at [Notify](https://notify.me), 
 | :computer: Commands                         |      **745** |
 | :hammer: Docker Builds                      |       **17** |
 
-###### Curious how this works? : [API Source](https://dustin.rest/source)
+###### Curious how this works? : [dustin.rest/source](https://dustin.rest/source)
 
 You should follow me on Twitter as I'm most active there \
 [**@dustinrouillard**](https://dustin.link/twitter)
