@@ -2,11 +2,11 @@
 
 #### Hi there, welcome to my GitHub profile 👋
 
-The name's Dustin, I'm 20 years old, currently living in Vancouver, Canada, and I'm the CTO & Co-Founder of [Notify Technology, Inc.](https://notify.me) 
+The name's Dustin, I'm 20 years old, currently living in Vancouver, Canada, and I'm the CTO & Co-Founder of [**Notify Technology, Inc.**](https://notify.me) 
 
 I'm a self-taught Software Engineer who is obsessed with scalable infrastructure, kubernetes is seriously part of my life now.
 
-I'm the Full-Time CTO and Systems Administrator at [Notify](https://notify.me), but in my spare time I write a lot of code for personal projects such as the api that updates the table below, and I also do things for [Hiven](https://hiven.io) when I'm needed.
+I'm the Full-Time CTO and Systems Administrator at [**Notify**](https://notify.me), but in my spare time I write a lot of code for personal projects such as the api that updates the table below, and I also do things for [Hiven](https://hiven.io) when I'm needed.
 
 ##### Random statistics about my last 7-days of activity.
 
