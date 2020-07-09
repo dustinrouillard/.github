@@ -16,8 +16,7 @@ You should follow me on Twitter as I'm most active there \
 I also have a Discord if you fancy hanging out there \
 **Discord**: [**dustin.link/discord**](https://dustin.link/discord)
 
+See more of my stuff at my website [**dustin.sh**](https://dustin.sh) \
 I also have a lot of domains btw, lol [**dustin.domains/all**](https://dustin.domains/all)
-
-See more of my stuff at my website [**dustin.sh**](https://dustin.sh)
 
 ###### This is a very neat way to tell people more about yourself and what you do :)
