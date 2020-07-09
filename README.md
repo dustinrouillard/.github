@@ -2,7 +2,7 @@
 
 #### Hi there, welcome to my GitHub profile 👋 
 
-My name's Dustin, I'm 20 years old, live in Vancouver, Canada, and I'm the CTO and Co-Founder of [Notify Technology, Inc.](https://notify.me) 
+The name's Dustin, I'm 20 years old, currently living in Vancouver, Canada, and I'm the CTO & Co-Founder of [Notify Technology, Inc.](https://notify.me) 
 
 I'm a self-taught Software Engineer who is obsessed with scalable infrastructure, kubernetes is seriously part of my life now.
 
