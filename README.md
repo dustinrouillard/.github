@@ -31,7 +31,7 @@ I also have a lot of domains btw, lol [**dustin.domains/all**](https://dustin.do
 Interested in the dotfiles that power my daily workflow? [**dstn.to/dotfiles**](https://dstn.to/dotfiles)
 
 | Information                           |
-| :------------------------------------ |
+| ------------------------------------: |
 | :musical_note: Music Playing : **No** |
 |               :bed: Sleeping : **No** |
 
