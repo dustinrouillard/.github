@@ -8,7 +8,7 @@ I'm a self-taught Software Engineer who is obsessed with scalable infrastructure
 
 I'm the Full-Time CTO and Systems Administrator at [**Notify**](https://notify.me), but in my spare time I write a lot of code for personal projects such as the api that updates the table below, and I also do things for [**Hiven**](https://hiven.io) when I'm needed.
 
-##### Random statistics about recent activity [dustin.rest/stats](https://dustin.rest/stats)
+##### Random statistics about my recent activity [dustin.rest/stats](https://dustin.rest/stats)
 
 | Title                                       |    24-hours |       7-days |
 | :------------------------------------------ | ----------: | -----------: |
