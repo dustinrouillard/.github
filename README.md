@@ -32,8 +32,9 @@ Interested in the dotfiles that power my daily workflow? [**dstn.to/dotfiles**](
 
 #### Random Information
 
-| Information                      |
-| :------------------------------- |
-| Soon                             |
+| Information                           |
+| ------------------------------------: |
+| :musical_note: Music Playing : **No** |
+|               :bed: Sleeping : **No** |
 
 ###### This is a very neat way to tell people more about yourself and what you do :)
