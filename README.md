@@ -19,12 +19,12 @@ I'm the Full-Time CTO and Systems Administrator at [**Notify**](https://notify.m
 ###### Curious how this works? : [dustin.rest/source](https://dustin.rest/source)
 
 You should follow me on Twitter as I'm most active there \
-[**@dustinrouillard**](https://dstn.to/twitter)
+[**@dustinrouillard**](https://dstn.to/twitter) : [**dstn.to/twitter**](https://dstn.to/twitter)
 
 If you happen to be in the Hiven beta I also have a house there \
 :house: [**hiven.house/dustin**](https://hiven.house/dustin)
 
-:email: : contact@dustin.sh \
+:email: : [**contact@dustin.sh**](mailto://contact@dustin.sh) \
 Discord : [**dustin.vc**](https://dustin.vc) \
 See more of my stuff at my website [**dustin.sh**](https://dustin.sh) \
 I also have a lot of domains btw, lol [**dustin.domains/all**](https://dustin.domains/all) \
