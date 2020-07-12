@@ -8,18 +8,18 @@ I'm a self-taught Software Engineer who is obsessed with scalable infrastructure
 
 I'm the Full-Time CTO and Systems Administrator at [**Notify**](https://notify.me), but in my spare time I write a lot of code for personal projects such as the api that updates the table below, and I also do things for [**Hiven**](https://hiven.io) when I'm needed.
 
-##### Random statistics about my last 7-days of activity.
+##### Random statistics about recent activity [dustin.rest/stats](https://dustin.rest/stats)
 
-| Title                                       |  24-hours |   7-days |
-| :------------------------------------------ | ------: | -------: |
-| :hourglass_flowing_sand: Hours Spent Coding |  **4.74hrs** |  **35.29hrs** |
+| Title                                       |    24-hours |       7-days |
+| :------------------------------------------ | ----------: | -----------: |
+| :hourglass_flowing_sand: Hours Spent Coding | **4.74hrs** | **35.29hrs** |
 | :computer: Commands                         |      **85** |    **1,603** |
 | :hammer: Docker Builds                      |      **15** |       **40** |
 
 ###### Curious how this works? : [dustin.rest/source](https://dustin.rest/source)
 
 You should follow me on Twitter as I'm most active there \
-[**@dustinrouillard**](https://dustin.link/twitter)
+[**@dustinrouillard**](https://dstn.to/twitter)
 
 If you happen to be in the Hiven beta I also have a house there \
 :house: [**hiven.house/dustin**](https://hiven.house/dustin)
@@ -28,6 +28,6 @@ If you happen to be in the Hiven beta I also have a house there \
 Discord : [**dustin.vc**](https://dustin.vc) \
 See more of my stuff at my website [**dustin.sh**](https://dustin.sh) \
 I also have a lot of domains btw, lol [**dustin.domains/all**](https://dustin.domains/all) \
-Interested in the dotfiles that power my daily workflow? [**dustin.link/dotfiles**](https://dustin.link/dotfiles)
+Interested in the dotfiles that power my daily workflow? [**dstn.to/dotfiles**](https://dstn.to/dotfiles)
 
 ###### This is a very neat way to tell people more about yourself and what you do :)
