@@ -33,6 +33,6 @@ Interested in the dotfiles that power my daily workflow? [**dstn.to/dotfiles**](
 | Information                           |
 | ------------------------------------: |
 | :musical_note: Music Playing : **No** |
-|               :bed: Sleeping : **No** |
+|              :bed: Sleeping : **Yes** |
 
 ###### This is a very neat way to tell people more about yourself and what you do :)
