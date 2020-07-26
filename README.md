@@ -30,6 +30,12 @@ See more of my stuff at my website [**dustin.sh**](https://dustin.sh) \
 I also have a lot of domains btw, lol [**dustin.domains/all**](https://dustin.domains/all) \
 Interested in the dotfiles that power my daily workflow? [**dstn.to/dotfiles**](https://dstn.to/dotfiles)
 
+Fancy Image Sites: \
+📠 - [fax.pics](https://fax.pics) \
+🌱 - [flax.pics](https://flax.pics) \
+🍁 - [kush.pics](https://kush.pics)
+
+
 | Information                           |
 | ------------------------------------: |
 | :musical_note: Music Playing : **No** |
