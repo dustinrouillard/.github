@@ -33,7 +33,8 @@ Interested in the dotfiles that power my daily workflow? [**dstn.to/dotfiles**](
 Fancy Image Sites: \
 📠 - [fax.pics](https://fax.pics) \
 🌱 - [flax.pics](https://flax.pics) \
-🍁 - [kush.pics](https://kush.pics)
+🍁 - [kush.pics](https://kush.pics) \
+🐶 - [samoyed.pics](https://samoyed.pics)
 
 
 | Information                           |
