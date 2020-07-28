@@ -34,7 +34,8 @@ Fancy Image Sites: \
 📠 - [fax.pics](https://fax.pics) \
 🌱 - [flax.pics](https://flax.pics) \
 🍁 - [kush.pics](https://kush.pics) \
-🐶 - [samoyed.pics](https://samoyed.pics)
+🐶 - [samoyed.pics](https://samoyed.pics) \
+🐈 - [siamese.pics](https://siamese.pics)
 
 
 | Information                           |
