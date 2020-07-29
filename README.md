@@ -12,8 +12,8 @@ I'm the Full-Time CTO and Systems Administrator at [**Notify**](https://notify.m
 
 | Title                                       |    24-hours |       7-days |         Month |
 | :------------------------------------------ | ----------: | -----------: | ------------: |
-| :hourglass_flowing_sand: Hours Spent Coding | **3.89hrs** | **27.85hrs** | **121.39hrs** |
-| :computer: Commands                         |     **133** |    **1,217** |     **5,298** |
+| :hourglass_flowing_sand: Hours Spent Coding | **4.14hrs** | **28.10hrs** | **121.64hrs** |
+| :computer: Commands                         |     **135** |    **1,219** |     **5,300** |
 | :hammer: Docker Builds                      |       **0** |        **0** |       **114** |
 
 ###### Curious how this works? : [dustin.rest/source](https://dustin.rest/source)
