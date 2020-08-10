@@ -13,7 +13,7 @@ I'm the Full-Time CTO and Systems Administrator at [**Notify**](https://notify.m
 | Title                                       |    24-hours |       7-days |        Month |
 | :------------------------------------------ | ----------: | -----------: | -----------: |
 | :hourglass_flowing_sand: Hours Spent Coding | **0.00hrs** | **10.48hrs** | **81.36hrs** |
-| :computer: Commands                         |      **36** |      **525** |    **4,525** |
+| :computer: Commands                         |      **45** |      **534** |    **4,534** |
 | :hammer: Docker Builds                      |       **0** |       **13** |       **96** |
 
 ###### Curious how this works? : [dustin.rest/source](https://dustin.rest/source)
@@ -40,9 +40,9 @@ Fancy Image Sites: \
 😾  - [marley.pics](https://marley.pics)
 
 
-| Information                           |
-| ------------------------------------: |
-| :musical_note: Music Playing : **No** |
-|               :bed: Sleeping : **No** |
+| Information                            |
+| -------------------------------------: |
+| :musical_note: Music Playing : **Yes** |
+|                :bed: Sleeping : **No** |
 
 ###### This is a very neat way to tell people more about yourself and what you do :)
