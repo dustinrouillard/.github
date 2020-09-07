@@ -10,11 +10,11 @@ I'm the Full-Time CTO and Systems Administrator at [**Notify**](https://notify.m
 
 ##### Random statistics about my recent activity [dustin.rest/stats](https://dustin.rest/stats)
 
-| Title                                       |    24-hours |       7-days |        Month |
-| :------------------------------------------ | ----------: | -----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding | **1.30hrs** | **10.63hrs** | **37.07hrs** |
-| :computer: Commands                         |      **49** |      **651** |    **1,988** |
-| :hammer: Docker Builds                      |       **0** |        **0** |       **11** |
+| Title                                       |    24-hours |      7-days |        Month |
+| :------------------------------------------ | ----------: | ----------: | -----------: |
+| :hourglass_flowing_sand: Hours Spent Coding | **0.00hrs** | **9.48hrs** | **32.96hrs** |
+| :computer: Commands                         |      **49** |     **651** |    **1,981** |
+| :hammer: Docker Builds                      |       **0** |       **0** |       **11** |
 
 ###### Curious how this works? : [dustin.rest/source](https://dustin.rest/source)
 
