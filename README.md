@@ -12,7 +12,7 @@ I'm the Full-Time CTO and Systems Administrator at [**Notify**](https://notify.m
 
 | Title                                       |    24-hours |       7-days |        Month |
 | :------------------------------------------ | ----------: | -----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding | **6.83hrs** | **15.58hrs** | **57.56hrs** |
+| :hourglass_flowing_sand: Hours Spent Coding | **7.15hrs** | **15.90hrs** | **57.88hrs** |
 | :computer: Commands                         |     **161** |      **893** |    **3,275** |
 | :hammer: Docker Builds                      |       **0** |        **0** |        **4** |
 
