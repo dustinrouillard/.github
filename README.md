@@ -31,13 +31,7 @@ I also have a lot of domains btw, lol [**dustin.domains/all**](https://dustin.do
 Interested in the dotfiles that power my daily workflow? [**dstn.to/dotfiles**](https://dstn.to/dotfiles)
 
 Fancy Image Sites: \
-📠  - [fax.pics](https://fax.pics) \
-🌱  - [flax.pics](https://flax.pics) \
-🍁  - [kush.pics](https://kush.pics) \
-🐶  - [samoyed.pics](https://samoyed.pics) \
-🐈  - [siamese.pics](https://siamese.pics) \
-🐈  - [burmese.pics](https://burmese.pics) \
-😾  - [marley.pics](https://marley.pics)
+🌅 - [awesome-pics Repo](https://dstn.to/pics)
 
 
 | Information                           |
