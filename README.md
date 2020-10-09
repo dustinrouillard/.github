@@ -12,7 +12,7 @@ I'm the Full-Time CTO and Systems Administrator at [**Notify**](https://notify.m
 
 | Title                                       |    24-hours |       7-days |        Month |
 | :------------------------------------------ | ----------: | -----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding | **3.16hrs** | **17.60hrs** | **90.14hrs** |
+| :hourglass_flowing_sand: Hours Spent Coding | **3.32hrs** | **17.76hrs** | **90.30hrs** |
 | :computer: Commands                         |     **118** |    **1,986** |    **6,500** |
 | :hammer: Docker Builds                      |       **0** |        **0** |        **5** |
 
@@ -34,9 +34,9 @@ Fancy Image Sites: \
 🌅 - [awesome-pics Repo](https://dstn.to/pics)
 
 
-| Information                           |
-| ------------------------------------: |
-| :musical_note: Music Playing : **No** |
-|               :bed: Sleeping : **No** |
+| Information                            |
+| -------------------------------------: |
+| :musical_note: Music Playing : **Yes** |
+|                :bed: Sleeping : **No** |
 
 ###### This is a very neat way to tell people more about yourself and what you do :)
