@@ -10,11 +10,11 @@ I'm the Full-Time CTO and Systems Administrator at [**Notify**](https://notify.m
 
 ##### Random statistics about my recent activity [dustin.rest/stats](https://dustin.rest/stats)
 
-| Title                                       |    24-hours |       7-days |         Month |
-| :------------------------------------------ | ----------: | -----------: | ------------: |
-| :hourglass_flowing_sand: Hours Spent Coding | **9.93hrs** | **26.73hrs** | **104.86hrs** |
-| :computer: Commands                         |     **341** |    **2,162** |     **7,676** |
-| :hammer: Docker Builds                      |       **0** |        **0** |        **14** |
+| Title                                       |    24-hours |       7-days |        Month |
+| :------------------------------------------ | ----------: | -----------: | -----------: |
+| :hourglass_flowing_sand: Hours Spent Coding | **0.00hrs** | **18.11hrs** | **92.19hrs** |
+| :computer: Commands                         |     **324** |    **2,162** |    **7,656** |
+| :hammer: Docker Builds                      |       **0** |        **0** |       **14** |
 
 ###### Curious how this works? : [dustin.rest/source](https://dustin.rest/source)
 
@@ -34,9 +34,9 @@ Fancy Image Sites: \
 🌅 - [awesome-pics Repo](https://dstn.to/pics)
 
 
-| Information                            |
-| -------------------------------------: |
-| :musical_note: Music Playing : **Yes** |
-|                :bed: Sleeping : **No** |
+| Information                           |
+| ------------------------------------: |
+| :musical_note: Music Playing : **No** |
+|               :bed: Sleeping : **No** |
 
 ###### This is a very neat way to tell people more about yourself and what you do :)
