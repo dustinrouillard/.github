@@ -14,8 +14,8 @@ The table below makes me look really inactive, and while it's partially true, I'
 
 | Title                                       |    24-hours |      7-days |       Month |
 | :------------------------------------------ | ----------: | ----------: | ----------: |
-| :hourglass_flowing_sand: Hours Spent Coding | **0.00hrs** | **0.00hrs** | **0.12hrs** |
-| :computer: Commands                         |      **12** |     **209** |     **421** |
+| :hourglass_flowing_sand: Hours Spent Coding | **0.00hrs** | **2.18hrs** | **2.30hrs** |
+| :computer: Commands                         |      **30** |     **227** |     **439** |
 | :hammer: Docker Builds                      |       **0** |       **0** |       **1** |
 
 ###### Curious how this works? : [dustin.rest/source](https://dustin.rest/source)
@@ -36,9 +36,9 @@ Fancy Image Sites: \
 🌅 - [awesome-pics Repo](https://dstn.to/pics)
 
 
-| Information                            |
-| -------------------------------------: |
-| :musical_note: Music Playing : **Yes** |
-|                :bed: Sleeping : **No** |
+| Information                           |
+| ------------------------------------: |
+| :musical_note: Music Playing : **No** |
+|               :bed: Sleeping : **No** |
 
 ###### This is a very neat way to tell people more about yourself and what you do :)
