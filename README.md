@@ -16,7 +16,7 @@ The table below makes me look really inactive, and while it's partially true, I'
 | Title                                       |    24-hours |      7-days |        Month |
 | :------------------------------------------ | ----------: | ----------: | -----------: |
 | :hourglass_flowing_sand: Hours Spent Coding | **0.00hrs** | **5.48hrs** | **18.32hrs** |
-| :computer: Commands                         |     **225** |     **365** |    **1,119** |
+| :computer: Commands                         |     **168** |     **365** |    **1,119** |
 | :hammer: Docker Builds                      |       **6** |       **6** |       **11** |
 
 ###### Curious how this works? : [dustin.rest/source](https://dustin.rest/source)
