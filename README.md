@@ -15,7 +15,7 @@ The table below makes me look really inactive, and while it's partially true, I'
 
 | Title                                       |    24-hours |      7-days |        Month |
 | :------------------------------------------ | ----------: | ----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding | **0.00hrs** | **5.48hrs** | **18.32hrs** |
+| :hourglass_flowing_sand: Hours Spent Coding | **0.08hrs** | **5.56hrs** | **18.40hrs** |
 | :computer: Commands                         |     **176** |     **373** |    **1,127** |
 | :hammer: Docker Builds                      |       **6** |       **6** |       **11** |
 
@@ -37,9 +37,9 @@ Fancy Image Sites: \
 🌅 - [awesome-pics Repo](https://dstn.to/pics)
 
 
-| Information                            |
-| -------------------------------------: |
-| :musical_note: Music Playing : **Yes** |
-|                :bed: Sleeping : **No** |
+| Information                           |
+| ------------------------------------: |
+| :musical_note: Music Playing : **No** |
+|               :bed: Sleeping : **No** |
 
 ###### README powered by [dustin.rest](https://dustin.rest/source)
