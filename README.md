@@ -15,7 +15,7 @@ The table below makes me look really inactive, and while it's partially true, I'
 
 | Title                                       |    24-hours |       7-days |         Month |
 | :------------------------------------------ | ----------: | -----------: | ------------: |
-| :hourglass_flowing_sand: Hours Spent Coding | **2.29hrs** | **24.15hrs** | **103.05hrs** |
+| :hourglass_flowing_sand: Hours Spent Coding | **2.38hrs** | **24.25hrs** | **103.15hrs** |
 | :computer: Commands                         |      **33** |      **739** |     **2,673** |
 | :hammer: Docker Builds                      |       **0** |       **15** |        **23** |
 
