@@ -13,11 +13,11 @@ The table below makes me look really inactive, and while it's partially true, I'
 
 ##### Statistics about my activity from [dustin.rest/stats](https://dustin.rest/stats)
 
-| Title                                       |    24-hours |      7-days |         Month |
-| :------------------------------------------ | ----------: | ----------: | ------------: |
-| :hourglass_flowing_sand: Hours Spent Coding | **0.00hrs** | **0.00hrs** | **100.42hrs** |
-| :computer: Commands                         |       **0** |       **5** |     **2,673** |
-| :hammer: Docker Builds                      |       **0** |       **0** |        **21** |
+| Title                                       |    24-hours |      7-days |        Month |
+| :------------------------------------------ | ----------: | ----------: | -----------: |
+| :hourglass_flowing_sand: Hours Spent Coding | **0.00hrs** | **0.00hrs** | **99.61hrs** |
+| :computer: Commands                         |       **0** |       **5** |    **2,668** |
+| :hammer: Docker Builds                      |       **0** |       **0** |       **21** |
 
 ###### Curious how this works? : [dustin.rest/source](https://dustin.rest/source)
 
