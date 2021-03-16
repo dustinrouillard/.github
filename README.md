@@ -1,5 +1,3 @@
-![Header Image](https://dustin.wtf/cce17dd3c78b35a8.png)
-
 #### Hey there, you've landed on my GitHub profile 👋
 ##### Take a few minutes to read about me and what I do.
 
