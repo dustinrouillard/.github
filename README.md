@@ -11,11 +11,11 @@ The table below makes me look really inactive, and while it's partially true, I'
 
 ##### Statistics about my activity from [dustin.rest/stats](https://dustin.rest/stats)
 
-| Title                                       |    24-hours |      7-days |        Month |
-| :------------------------------------------ | ----------: | ----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding | **0.31hrs** | **1.07hrs** | **19.21hrs** |
-| :computer: Commands                         |       **0** |     **178** |    **2,726** |
-| :hammer: Docker Builds                      |       **0** |       **5** |       **37** |
+| Title                                       |    24-hours |      7-days |       Month |
+| :------------------------------------------ | ----------: | ----------: | ----------: |
+| :hourglass_flowing_sand: Hours Spent Coding | **0.00hrs** | **3.95hrs** | **6.43hrs** |
+| :computer: Commands                         |       **1** |      **36** |   **2,946** |
+| :hammer: Docker Builds                      |       **0** |       **0** |      **15** |
 
 ###### Curious how this works? : [dustin.rest/source](https://dustin.rest/source)
 
@@ -35,9 +35,9 @@ Fancy Image Sites: \
 🌅 - [awesome-pics Repo](https://dstn.to/pics)
 
 
-| Information                           |
-| ------------------------------------: |
-| :musical_note: Music Playing : **No** |
-|               :bed: Sleeping : **No** |
+| Information                            |
+| -------------------------------------: |
+| :musical_note: Music Playing : **Yes** |
+|                :bed: Sleeping : **No** |
 
 ###### README powered by [dustin.rest](https://dustin.rest/source)
