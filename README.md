@@ -28,7 +28,6 @@ If you happen to use Hiven I also have a house there that you could pop your hea
 :email: : [**dustin@rouillard.dev**](mailto://dustin@rouillard.dev) \
 Discord : [**dustin.vc**](https://dustin.vc) \
 See more of my stuff at my website [**dustin.sh**](https://dustin.sh) \
-I also like to horde domains [**dustin.domains/all**](https://dustin.domains/all) \
 Interested in the dotfiles that power my daily workflow? [**dstn.to/dotfiles**](https://dstn.to/dotfiles)
 
 Fancy Image Sites: \
