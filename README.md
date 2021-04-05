@@ -9,7 +9,7 @@ Aside from all that, I also do things for [**Hiven**](https://hiven.io) sometime
 
 The table below makes me look really inactive, and while it's partially true, I'm still working on things in the background. I've recently decided I needed a break from like everything for a bit, I'm coming back with good stuff soon.
 
-##### Statistics about my activity from [dustin.rest/stats](https://dustin.rest/stats)
+##### Statistics about my activity from [rest.dstn.to/stats](https://rest.dstn.to/stats)
 
 | Title                                       |    24-hours |       7-days |        Month |
 | :------------------------------------------ | ----------: | -----------: | -----------: |
@@ -17,7 +17,7 @@ The table below makes me look really inactive, and while it's partially true, I'
 | :computer: Commands                         |     **300** |      **803** |    **3,302** |
 | :hammer: Docker Builds                      |       **0** |        **0** |       **15** |
 
-###### Curious how this works? : [dustin.rest/source](https://dustin.rest/source)
+###### Curious how this works? : [rest.dstn.to](https://dstn.to/api)
 
 If you don't follow me on Twitter you're missing out, I'm super active over there most the time. \
 [**@dustinrouillard**](https://dstn.to/twitter) : [**dstn.to/twitter**](https://dstn.to/twitter)
@@ -40,4 +40,4 @@ Fancy Image Sites: \
 | :musical_note: Music Playing : **No** |
 |               :bed: Sleeping : **No** |
 
-###### README powered by [dustin.rest](https://dustin.rest/source)
+###### README powered by [rest.dstn.to](https://dstn.to/api)
