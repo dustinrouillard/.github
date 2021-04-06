@@ -13,8 +13,8 @@ The table below makes me look really inactive, and while it's partially true, I'
 
 | Title                                       |    24-hours |       7-days |        Month |
 | :------------------------------------------ | ----------: | -----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding | **0.96hrs** | **11.71hrs** | **17.13hrs** |
-| :computer: Commands                         |     **136** |      **831** |    **3,208** |
+| :hourglass_flowing_sand: Hours Spent Coding | **0.96hrs** | **11.99hrs** | **17.40hrs** |
+| :computer: Commands                         |     **136** |      **831** |    **3,203** |
 | :hammer: Docker Builds                      |       **0** |        **0** |       **15** |
 
 ###### Curious how this works? : [rest.dstn.to](https://dstn.to/api)
@@ -34,9 +34,9 @@ Fancy Image Sites: \
 🌅 - [awesome-pics Repo](https://dstn.to/pics)
 
 
-| Information                           |
-| ------------------------------------: |
-| :musical_note: Music Playing : **No** |
-|               :bed: Sleeping : **No** |
+| Information                            |
+| -------------------------------------: |
+| :musical_note: Music Playing : **Yes** |
+|                :bed: Sleeping : **No** |
 
 ###### README powered by [rest.dstn.to](https://dstn.to/api)
