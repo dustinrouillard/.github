@@ -11,11 +11,11 @@ The table below makes me look really inactive, and while it's partially true, I'
 
 ##### Statistics about my activity from [rest.dstn.to/stats](https://rest.dstn.to/stats)
 
-| Title                                       |    24-hours |      7-days |        Month |
-| :------------------------------------------ | ----------: | ----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding | **0.13hrs** | **9.92hrs** | **21.95hrs** |
-| :computer: Commands                         |      **21** |     **969** |    **3,055** |
-| :hammer: Docker Builds                      |       **0** |       **0** |        **7** |
+| Title                                       |    24-hours |       7-days |        Month |
+| :------------------------------------------ | ----------: | -----------: | -----------: |
+| :hourglass_flowing_sand: Hours Spent Coding | **0.13hrs** | **10.06hrs** | **22.09hrs** |
+| :computer: Commands                         |      **21** |      **969** |    **3,055** |
+| :hammer: Docker Builds                      |       **0** |        **0** |        **7** |
 
 ###### Curious how this works? : [rest.dstn.to](https://dstn.to/api)
 
