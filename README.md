@@ -14,8 +14,8 @@ The table below makes me look really inactive, and while it's partially true, I'
 | Title                                       |    24-hours |      7-days |        Month |
 | :------------------------------------------ | ----------: | ----------: | -----------: |
 | :hourglass_flowing_sand: Hours Spent Coding | **3.11hrs** | **7.11hrs** | **29.73hrs** |
-| :computer: Commands                         |      **38** |      **70** |    **1,872** |
-| :hammer: Docker Builds                      |       **0** |       **0** |        **5** |
+| :computer: Commands                         |      **38** |      **70** |    **1,773** |
+| :hammer: Docker Builds                      |       **0** |       **0** |        **0** |
 
 ###### Curious how this works? : [rest.dstn.to](https://dstn.to/api)
 
