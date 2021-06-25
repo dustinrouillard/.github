@@ -5,8 +5,6 @@ The name's Dustin, I'm 21 years old, currently living in Rio Rancho, New Mexico.
 
 Currently I don't have a single project that I'm focusing on, mostly just working on myself. But recently I've been getting back into working on my personal projects, and upcoming projects that I've planned with a couple friends. (You'll know more soon about those plans)
 
-Aside from all that, I also do things for [**Hiven**](https://hiven.io) sometimes.
-
 The table below makes me look really inactive, and while it's partially true, I'm still working on things in the background. I've recently decided I needed a break from like everything for a bit, I'm coming back with good stuff soon.
 
 ##### Statistics about my activity from [rest.dstn.to/stats](https://rest.dstn.to/stats)
@@ -21,9 +19,6 @@ The table below makes me look really inactive, and while it's partially true, I'
 
 If you don't follow me on Twitter you're missing out, I'm super active over there most the time. \
 [**@dustinrouillard**](https://dstn.to/twitter) : [**dstn.to/twitter**](https://dstn.to/twitter)
-
-If you happen to use Hiven I also have a house there that you could pop your head into \
-:house: [**hiven.house/dustin**](https://hiven.house/dustin)
 
 :email: : [**dustin@rouillard.dev**](mailto://dustin@rouillard.dev) \
 Discord : [**dustin.vc**](https://dustin.vc) \
