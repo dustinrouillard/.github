@@ -1,7 +1,7 @@
 #### Hey there, you've landed on my GitHub profile 👋
 ##### Take a few minutes to read about me and what I do.
 
-The name's Dustin, I'm 21 years old, currently living in Rio Rancho, New Mexico. I'm a self-taught Software Engineer who is obsessed with scalable infrastructure, kubernetes is a serious part of my life now, I've also recently taken up networking and infrastructure around networking, absolutely a passion of mine and I'd love to get a job in the networking field one day.
+The name's Dustin, I'm 22 years old, currently living in New Mexico. I'm a self-taught Software Engineer who is obsessed with scalable infrastructure, kubernetes is a serious part of my life now, I've also recently taken up networking and infrastructure around networking, absolutely a passion of mine and I'd love to get a job in the networking field one day.
 
 Currently I don't have a single project that I'm focusing on, mostly just working on myself. But recently I've been getting back into working on my personal projects, and upcoming projects that I've planned with a couple friends. (You'll know more soon about those plans)
 
