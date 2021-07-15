@@ -20,7 +20,7 @@ The table below makes me look really inactive, and while it's partially true, I'
 If you don't follow me on Twitter you're missing out, I'm super active over there most the time. \
 [**@dustinrouillard**](https://dstn.to/twitter) : [**dstn.to/twitter**](https://dstn.to/twitter)
 
-:email: : [**dustin@rouillard.dev**](mailto://dustin@rouillard.dev) \
+:email: : [**email@dstn.to**](mailto://email@dstn.to) \
 Discord : [**dustin.vc**](https://dustin.vc) \
 See more of my stuff at my website [**dustin.sh**](https://dustin.sh) \
 Interested in the dotfiles that power my daily workflow? [**dstn.to/dotfiles**](https://dstn.to/dotfiles)
