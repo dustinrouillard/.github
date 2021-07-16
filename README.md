@@ -7,8 +7,8 @@ The name's Dustin, I'm 22 years old, currently living in New Mexico. I'm a self-
 
 | Title                                       |    24-hours |       7-days |        Month |
 | :------------------------------------------ | ----------: | -----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding | **4.02hrs** | **30.10hrs** | **33.47hrs** |
-| :computer: Commands                         |      **63** |      **988** |    **2,480** |
+| :hourglass_flowing_sand: Hours Spent Coding | **4.15hrs** | **30.23hrs** | **33.59hrs** |
+| :computer: Commands                         |      **62** |      **986** |    **2,465** |
 | :hammer: Docker Builds                      |       **0** |        **1** |        **1** |
 
 ###### Curious how this works? : [rest.dstn.to](https://dstn.to/api)
