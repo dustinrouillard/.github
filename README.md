@@ -17,17 +17,8 @@ If you don't follow me on Twitter you're missing out, I'm super active over ther
 [**@dustinrouillard**](https://dstn.to/twitter) : [**dstn.to/twitter**](https://dstn.to/twitter)
 
 :email: : [**email@dstn.to**](mailto://email@dstn.to) \
-Discord : [**dustin.vc**](https://dustin.vc) \
-See more of my stuff at my website [**dustin.sh**](https://dustin.sh) \
+Discord : [**dstn.to/discord**](https://dstn.to/discord) \
+See more of my stuff at my website [**dustin.sh**](https://dstn.to) \
 Interested in the dotfiles that power my daily workflow? [**dstn.to/dotfiles**](https://dstn.to/dotfiles)
-
-Fancy Image Sites: \
-🌅 - [awesome-pics Repo](https://dstn.to/pics)
-
-
-| Information                            |
-| -------------------------------------: |
-| :musical_note: Music Playing : **Yes** |
-|                :bed: Sleeping : **No** |
 
 ###### README powered by [rest.dstn.to](https://dstn.to/api)
