@@ -7,7 +7,7 @@ The name's Dustin, I'm 22 years old, currently living in New Mexico. I'm a self-
 
 | Title                                       |    24-hours |       7-days |        Month |
 | :------------------------------------------ | ----------: | -----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding | **3.39hrs** | **15.16hrs** | **43.93hrs** |
+| :hourglass_flowing_sand: Hours Spent Coding | **3.98hrs** | **15.74hrs** | **44.52hrs** |
 | :computer: Commands                         |     **184** |      **598** |    **2,837** |
 | :hammer: Docker Builds                      |       **0** |        **0** |        **1** |
 
